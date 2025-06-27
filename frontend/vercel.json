@@ -8,6 +8,6 @@
         }
     ],
     "rewrites":[
-        {"source":"/(.*)","desitnation":"/"}
+        {"source":"/(.*)","destination":"/"}
     ]
 }
